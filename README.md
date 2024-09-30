@@ -21,7 +21,7 @@
 ### *_[心脏瓣膜置换术后患者药物敏感性判别和剂量预测模型](https://github.com/ZhijianWei/Machine_Learning)_：某医院重点项目，练练手
 ### *_ASD地面高光谱数据处理软件（开发中）_：实现反射率文件一键批处理和可视化，提升ASD数据处理效率
 ### **WELI：结合连续小波分析和LSTM的定量遥感高精度反演算法*（论文审稿中，暂隐藏）：可避开PROSIAL的病态反演问题，高精度反演冠层参数
-### **[原创的一些科研黑科技](https://github.com/ZhijianWei/Original_Toolkits)*：批量图像分割，根据R方高精度拟合数据，生成高质量科研图表等等
+### *_[原创的一些科研黑科技](https://github.com/ZhijianWei/Original_Toolkits)_：批量图像分割，根据R方高精度拟合数据，生成高质量科研图表等等
 
 <br><br>
 
