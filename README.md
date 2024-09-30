@@ -15,7 +15,7 @@
 <br>
 
 ##  📫项目和算法 projects & algorithms<br>
-### **SIDEST：基于超分重建和双边检测SAM的农田边界识别算法（论文审稿中，暂隐藏）* ：可从免费的S2和PS影像中无样本获取高精度农田边界
+### **SIDEST：基于超分重建和双边检测SAM的大尺度农田边界识别算法（论文审稿中，暂隐藏）* ：可从免费的S2和PS影像中无样本获取高精度农田边界 SIDEST: A robust and sample-free framework for delineating large-scale crop field boundaries by integrating super-resolution image reconstruction and a dual edge-corrected Segment Anything Model (under review, Private for now): Highly accurate farmland boundaries can be obtained without samples from free S2 and PS images.
 ### **[近地面平台模拟光谱生成和多尺度植物生理生化定量反演](https://github.com/ZhijianWei/RS_Quantitative_Parameters_Retrieval)* ：可实现LCC和CCC高精度反演和数据产品生成
 ### *_[心脏瓣膜置换术后患者药物敏感性判别和剂量预测模型](https://github.com/ZhijianWei/Machine_Learning)_：某医院重点项目，练练手
 ### *_ASD地面高光谱数据处理软件（开发中）_：实现反射率文件一键批处理和可视化，提升ASD数据处理效率
