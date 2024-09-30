@@ -1,4 +1,5 @@
-# <div align="center"> Welcome to Zhijian Wei's little world of algorithms👋
+#  <div align="center"> Zhijian Wei
+## <div align="center"> Welcome to my little world of algorithms👋
 
 
 
