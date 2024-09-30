@@ -4,7 +4,7 @@
 
 
 
-##  🔭 技术栈 technology stack<br>
+##  🔭 技术栈 tech stacks<br>
    
 * ###  Python数据分析/数据挖掘/机器学习/深度学习（图像识别解译）Python data analysis/data mining/machine learning/deep learning (image recognition&decoding)
 * ###  Pyhton遥感算法设计/算法移植优化 Pyhton algorithm design/algorithm optimization(Proficient in remote sensing algorithms)
