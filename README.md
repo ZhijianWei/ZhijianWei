@@ -1,5 +1,4 @@
 #  <div align="center"> Zhijian Wei
-## <div align="center"> 欢迎来到我的小天地
 ## <div align="center"> Welcome to my little world of algorithms👋
 
 
