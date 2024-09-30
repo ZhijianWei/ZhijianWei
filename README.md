@@ -1,14 +1,15 @@
-## Welcome to my little world of algorithms👋
+## <div align="center"> Welcome to Zhijian Wei's little world of algorithms👋
 
-
-## <div align="center"><b><a href="[README.md](README.md)">English</a> | <a href=[READMEzh.md](READMEzh.md)>简体中文</a></b></div>
 
 
 
 ##   🔭 技术栈
 * ###  Python数据分析/数据挖掘/机器学习/深度学习（图像识别解译）
+  ###  Python data analysis/data mining/machine learning/deep learning (image recognition&decoding)
 * ###  Pyhton遥感算法设计/算法移植优化
+  ###  Pyhton algorithm design/algorithm porting optimization(Proficient in remote sensing algorithms)
 * ###  C++程序设计，系统开发（水平不太行了）
+  ###  C++ Programming, Systems Development (not so good anymore)
 
 <br>
 <br>
