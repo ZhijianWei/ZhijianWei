@@ -1,14 +1,23 @@
-## Hi there 👋
+## Hi there, I am Zhijian Wei 👋
 
-<!--
-**ZhijianWei/ZhijianWei** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
- 🔭 技术栈
- ### * **Python数据分析，机器学习，深度学习**
- ### * **C++程序设计，系统开发（忘差不多了）**:
+##   🔭 技术栈
+* ###  Python数据分析/数据挖掘/机器学习/深度学习（图像识别解译）
+* ###  Pyhton遥感算法设计/算法移植优化
+* ###  C++程序设计，系统开发（水平不太行了）
 
-- 📫 项目 Projects...
-闲鱼APP数据采集-基于uiautoamtor2 可支持任意关键字采集
-链家网小区二手房信息爬取可选择省份，区域自行导出Excel
-房天下小区二手房信息爬取 可选择省份，区域自行导出Excel
-Java实现23种设计模式学习笔记 查看23种设计模式学习笔记
+<br>
+<br>
+
+##  📫项目和算法
+### **SIDEST：基于超分重建和双边检测SAM的农田边界识别算法（论文审稿中，暂隐藏）* ：可从免费的S2和PS影像中无样本获取高精度农田边界
+### **近地面平台模拟光谱生成和多尺度植物生理生化定量反演* ：可实现LCC和CCC高精度反演和数据产品生成
+### **心脏瓣膜置换术后患者药物敏感性判别和剂量预测模型（某医院重点项目*：
+### *ASD地面高光谱数据处理软件（开发中）：实现反射率文件一键批处理和可视化，提升ASD数据处理效率
+### **WELI：结合连续小波分析和LSTM的定量遥感高精度反演算法*（论文审稿中，暂隐藏）：可完美避开PROSIAL的病态反演问题，高精度反演冠层参数
+### **原创的一些科研黑科技*：批量图像分割，根据R方高精度拟合数据，生成高质量科研图表等等
+<br><br>
+## 🤗联系我：<br>
+
+本套算法的辐射传输模型借鉴了J.Gomez-Dans (NCEO & UCL)的PROSAIL的python重写版本（GitHub链接：https://github.com/jgomezdans/prosail ）
+
