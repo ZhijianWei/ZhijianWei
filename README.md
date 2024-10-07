@@ -8,7 +8,7 @@
    
 * ###  Python数据分析/数据挖掘/机器学习/深度学习（图像识别解译）Python data analysis/data mining/machine learning/deep learning (image recognition&decoding)
 * ###  Pyhton遥感算法设计/算法移植优化 Pyhton algorithm design/algorithm optimization(Proficient in remote sensing algorithms)
-* ###  C++程序设计，系统开发 C++ Programming, Systems Development (not so good anymore)
+* ###  C++程序设计，C#系统开发 C++ Programming, C# Systems Development (not so good anymore)
   
 <br>
 <br>
